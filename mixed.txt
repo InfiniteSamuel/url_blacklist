@@ -135,29 +135,29 @@ visitsviolatedifficult.com
 
 
 # Regex
-^(.*\.)*newrelic.com
-^(.*\.)*dingshengjishu.com
-^(.*\.)*anman3.me
-^(.*\.)*efyt6.com
-^(.*\.)*haitao369.com
-^(.*\.)*shuofanguoji.com
-^(.*\.)*gbcnvip15.com
-^(.*\.)*ddgjjj.com
-^(.*\.)*8yauhcv.cn
-^(.*\.)*zdpeanut.com
-^(.*\.)*keeearl.top
-^(.*\.)*tjmzzk.com
-^(.*\.)*zhongweiqiye.com
-^(.*\.)*heartsoap.cn
-^(.*\.)*wxdal.cn
-^(.*\.)*xaszjf.com
-^(.*\.)*aianmh8.me
-^(.*\.)*xinaiwan.cn
-^(.*\.)*hudongzhidao.cn
-^(.*\.)*szsdjscl.cn
+^(.*\.)*newrelic\\.com
+^(.*\.)*dingshengjishu\\.com
+^(.*\.)*anman3\\.me
+^(.*\.)*efyt6\\.com
+^(.*\.)*haitao369\\.com
+^(.*\.)*shuofanguoji\\.com
+^(.*\.)*gbcnvip15\\.com
+^(.*\.)*ddgjjj\\.com
+^(.*\.)*8yauhcv\\.cn
+^(.*\.)*zdpeanut\\.com
+^(.*\.)*keeearl\\.top
+^(.*\.)*tjmzzk\\.com
+^(.*\.)*zhongweiqiye\\.com
+^(.*\.)*heartsoap\\.cn
+^(.*\.)*wxdal\\.cn
+^(.*\.)*xaszjf\\.com
+^(.*\.)*aianmh8\\.me
+^(.*\.)*xinaiwan\\.cn
+^(.*\.)*hudongzhidao\\.cn
+^(.*\.)*szsdjscl\\.cn
 ^(.*\.)*xppmh[:alnum:]*\\.com
-^(.*\.)*sypi.app
-^(.*\.)*automatad.com
+^(.*\.)*sypi\\.app
+^(.*\.)*automatad\\.com
 ^(.*\.)*openwebtorrent\\.com$
 ^(.*\.)*leiniao\\.com$
 ^(.*\.)*www\\.ludu319\\.com$
@@ -179,4 +179,4 @@ visitsviolatedifficult.com
 ^(.*\.)*georgeyan\\.com$
 ^(.*\.)*rz845\\.com$
 ^(.*\.)*clickadilla\\.com$
-^(.*\.)*sb4you1.com$
+^(.*\.)*sb4you1\\.com
