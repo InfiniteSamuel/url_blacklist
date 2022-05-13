@@ -1,5 +1,6 @@
 # Exact match
 graph.facebook.com
+cse.google.com
 giddinessscrewscandal.com
 www.52av.be
 www.visariomedia.com
