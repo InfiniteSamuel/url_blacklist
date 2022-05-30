@@ -1,5 +1,7 @@
 # Exact match
 graph.facebook.com
+a.exosrv.com
+adserver.juicyads.com
 cse.google.com
 giddinessscrewscandal.com
 www.52av.be
