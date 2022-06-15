@@ -1,6 +1,7 @@
 # Exact match
 graph.facebook.com
 a.exosrv.com
+c.adsco.re
 adserver.juicyads.com
 cse.google.com
 giddinessscrewscandal.com
