@@ -1,6 +1,10 @@
 # Exact match
 graph.facebook.com
 youradexchange.com
+cdn.userreport.com
+awigglespouter.cam
+cdn.jsdelivr.net
+awigglespouter.cam
 goined.com
 samazd.com
 static.cloudflareinsights.com
