@@ -1,5 +1,10 @@
 # Exact match
 graph.facebook.com
+youradexchange.com
+goined.com
+samazd.com
+static.cloudflareinsights.com
+visitanalytics.userreport.com
 a.exosrv.com
 c.adsco.re
 adserver.juicyads.com
