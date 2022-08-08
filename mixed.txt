@@ -8,7 +8,6 @@ awigglespouter.cam
 goined.com
 aspape.com
 awigglespouter.cam
-cdn.userreport.com
 krence.com
 refilmsreeper.website
 sr.bummersrummagy.com
@@ -222,3 +221,4 @@ visitsviolatedifficult.com
 (\.|^)clickadilla\.com$
 (\.|^)sb4you1\.com
 (\.|^)collector-.*\.perimeterx\.net
+(\.|^)userreport.com
