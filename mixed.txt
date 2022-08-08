@@ -1,4 +1,8 @@
 # Exact match
+srv.aso1.net
+media.aso1.net
+track.aso1.net
+
 graph.facebook.com
 youradexchange.com
 cdn.userreport.com
