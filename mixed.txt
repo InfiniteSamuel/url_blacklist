@@ -2,6 +2,18 @@
 srv.aso1.net
 media.aso1.net
 track.aso1.net
+a.realsrv.com
+ads.exosrv.com
+d13k7prax1yi04.cloudfront.net
+eyebrowscrambledlater.com
+js.wpadmngr.com
+nonecss.com
+s10.histats.com
+son-in-lawmorbid.com
+www.blueoyster.click
+www.googletagmanager.com
+www.spkoevngk.com
+www.visariomedia.com
 
 graph.facebook.com
 youradexchange.com
