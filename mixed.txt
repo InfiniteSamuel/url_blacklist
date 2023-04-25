@@ -15,6 +15,34 @@ www.googletagmanager.com
 www.spkoevngk.com
 www.visariomedia.com
 mc.nvshennv.bar
+adm.hotjar.com
+identify.hotjar.com
+surveys.hotjar.com
+events.hotjar.io
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+api.luckyorange.com
+realtime.luckyorange.com
+ads-api.tiktok.com
+business-api.tiktok.com
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+bdapi-ads.realmemobile.com
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+api-adservices.apple.com
+
+
+
+
+
+
+
+
 
 
 graph.facebook.com
