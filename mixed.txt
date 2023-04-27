@@ -35,7 +35,7 @@ bdapi-ads.realmemobile.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 api-adservices.apple.com
-
+adtech.yahooinc.com
 
 
 
